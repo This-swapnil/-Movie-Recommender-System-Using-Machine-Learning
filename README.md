@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-MOvie_recommender.ipynb
+Movie_recommender.ipynb
 ```
 
 Now run,

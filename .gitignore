@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 data/tmdb_5000_movies.csv
 data/tmdb_5000_credits.csv
+artifacts/movie_list.pkl
+artifacts/similarity.pkl
