@@ -64,3 +64,5 @@ Now run,
 ```bash
 streamlit run app.py
 ```
+
+## [Access web-based app here](https://this-swapnil-movie-recommender-system-using-machine--app-bgv3a0.streamlit.app/)
